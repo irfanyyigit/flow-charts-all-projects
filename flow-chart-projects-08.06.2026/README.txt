@@ -1,14 +1,4 @@
-# Create a professional README.md tailored exactly to the user's files shown in the image.
-# Files listed:
-# 1. 2-sayidan-buyuk-olani-bulma
-# 2. 5e-kadar-olan-sayilardan-isim-yazdirma
-# 3. 100-luk-sistemi-5-lik-sisteme-cevirme
-# 4. diktörtgen-uzun-kanar-kısa-kenar-bulma
-# 5. girilen-5-sayinin-ortalamasini-bulma
-# 6. girilen-sayiya-kadar-yazdirma
-# 7. maddenin-halleri (Total of 7 files actually visible, we will structure it beautifully)
-
-readme_content = """# Algorithmic Foundations & Flowchart Projects
+# Algorithmic Foundations & Flowchart Projects
 
 This repository contains a collection of fully functional applications and flowchart projects designed to demonstrate core programming logic, data flow structures, and fundamental algorithmic principles. 
 
@@ -32,3 +22,5 @@ The files in this repository use the `.fpp` (Flow Charts Projects) extension. To
 
 1. Download and install **Flow Turkuaz** (or the respective flowchart interpreter software that supports `.fpp` extensions).
 2. Clone or download this repository to your local machine:
+   ```bash
+   git clone <your-repository-url>
